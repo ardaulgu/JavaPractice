@@ -47,7 +47,7 @@ public class Main {
         isAlive = false;
         System.out.println(isAlive);
 
-        // Final - deger sabit kalsın istiyorsak basina "final"
+        // Final - deger sabit kalsin istiyorsak basina "final"
 
         final int myInteger = 5;
         System.out.println("myInteger: " + myInteger);
