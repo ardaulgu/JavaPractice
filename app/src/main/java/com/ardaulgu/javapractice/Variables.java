@@ -1,6 +1,6 @@
 package com.ardaulgu.javapractice;
 
-public class Main {
+public class Variables {
 
     public static void main(String[] args) {
 
