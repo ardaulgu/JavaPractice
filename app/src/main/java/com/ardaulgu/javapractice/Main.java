@@ -27,6 +27,39 @@ public class Main {
 
         float myFloat = 10.0f;
 
+        double pi =3.14;
+        int r = 5;
+        System.out.println(2*pi*r);
+
+        // String
+
+        String name = "Darth";
+        String surname = "Vader";
+        System.out.println(name);
+        System.out.println(surname);
+
+        String fullname = name + " " + surname;
+        System.out.println(fullname);
+
+        // Boolean
+
+        boolean isAlive = true;
+        isAlive = false;
+        System.out.println(isAlive);
+
+        // Final - deger sabit kalsın istiyorsak basina "final"
+
+        final int myInteger = 5;
+        System.out.println("myInteger: " + myInteger);
+        /* myInteger = 4;
+        System.out.println("myInteger: " + myInteger); */
+
+
+
+
+
+
+
 
 
     }
